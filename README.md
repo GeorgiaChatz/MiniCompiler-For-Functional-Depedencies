@@ -19,7 +19,7 @@ Compiler coded in **python** based on relation databases integrity constraints.
    
  ### Primary Key Example 
  
- <img src="primary.jpg" width="300" align="center">
+ <img src="primary.jpg" width="450" align="center">
  
  
  ### Foreign Key Example
