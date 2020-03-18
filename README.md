@@ -28,4 +28,4 @@ Compiler coded in **python** based on relation databases integrity constraints.
  
  ### Other Functional Depedencies
  
- <img src="depeden.jpg" width="300" align="center">
+ <img src="depeden.jpg" width="350" align="center">
