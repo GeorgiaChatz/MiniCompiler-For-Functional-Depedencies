@@ -24,7 +24,7 @@ Compiler coded in **python** based on relation databases integrity constraints.
  
  ### Foreign Key Example
  
- <img src="foreign.jpg" width="300" align="center">
+ <img src="foreign.jpg" width="350" align="center">
  
  ### Other Functional Depedencies
  
