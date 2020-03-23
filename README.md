@@ -1,6 +1,6 @@
 # MiniCompiler For Functional Depedencies
 
-Compiler coded in **python** based on relation databases integrity constraints.
+Compiler coded in **python** based on relational databases integrity constraints.
 
 ## Project Informations
 
